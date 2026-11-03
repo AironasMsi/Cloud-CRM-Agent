@@ -1,5 +1,15 @@
 # Cloud CRM & Operations Agent — 24/7 Autonomous Team Workflow Engine
 
+[![Python 3.10+](https://img.shields.io/badge/Python-3.10+-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![Cloud VPS: Oracle](https://img.shields.io/badge/Cloud_VPS-Oracle_Cloud_Infrastructure-F80000.svg?style=flat&logo=oracle&logoColor=white)](https://www.oracle.com/cloud/)
+[![OS: Ubuntu](https://img.shields.io/badge/OS-Ubuntu_22.04_LTS-E95420.svg?style=flat&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+[![Discord API](https://img.shields.io/badge/Discord_API-discord.py_2.4+-5865F2.svg?style=flat&logo=discord&logoColor=white)](https://discordpy.readthedocs.io/)
+[![Database: aiosqlite](https://img.shields.io/badge/Database-aiosqlite_%C2%B7_WAL_Mode-003B57.svg?style=flat&logo=sqlite&logoColor=white)](https://github.com/omnilib/aiosqlite)
+[![Bi-Directional Email](https://img.shields.io/badge/Email_Bridge-IMAP_%C2%B7_SMTP_SSL-EA4335.svg?style=flat&logo=gmail&logoColor=white)](README.md)
+[![Architecture: FSM](https://img.shields.io/badge/Architecture-Async_FSM_Pipeline-blueviolet.svg?style=flat)](README.md)
+[![Daemon: Systemd](https://img.shields.io/badge/Daemon-Systemd_24%2F7-007808.svg?style=flat)](README.md)
+[![License: Showcase](https://img.shields.io/badge/License-Showcase_Portfolio-yellow.svg)](README.md)
+
 > **Enterprise Domain:** Distributed Operations CRM, Bi-Directional Email Synchronization & Autonomous Lead Pipeline  
 > **Infrastructure:** Oracle Cloud VPS (Linux Ubuntu Server), systemd Daemon Management, Automated SSH Deployment  
 > **Backend & Stack:** Python 3.10+, Discord API (`discord.py`), Asynchronous SQLite (`aiosqlite` WAL mode), `yt-dlp`  
