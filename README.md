@@ -31,7 +31,7 @@ Designed for high-velocity creative production and outreach operations, the syst
 
 ### 2. 🔀 Asynchronous Finite State Machine (FSM Pipeline)
 - **Multi-Stage Operational Pipeline:** Manages client lifecycles across explicit, non-blocking states:
-  $$\text{PENDING} \longrightarrow \text{PREVIEW\_NEEDED} \longrightarrow \text{OUTREACH\_SENT} \longrightarrow \text{REPLIED} \longrightarrow \text{ACTIVE} \ / \ \text{REJECTED}$$
+  `PENDING` ➔ `PREVIEW_NEEDED` ➔ `OUTREACH_SENT` ➔ `CLIENT_REPLIED` ➔ `ACTIVE` / `REJECTED`
 - **Automated Task Routing:** When a lead enters the pipeline, the bot automatically generates dedicated action cards, mentions assigned team operators, sets deadlines, and tracks elapsed time.
 - **Contract Conversion:** With one click (`Sandoris! (Aktyvus)`), the lead transitions to an active client, automatically spinning up dedicated workspace threads for asset intake (MP3 audio, scripts, footage).
 
