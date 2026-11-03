@@ -1,0 +1,30 @@
+# Ignore sensitive credentials & keys
+*password*.txt
+*.key
+*.key.pub
+*.env
+*.env.*
+!.env.example
+
+# Ignore heavy database binaries and caches
+*.db
+*.db-shm
+*.db-wal
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore local video/render dumps
+*.mp4
+*.wav
+*.avi
+*.mkv
+!assets/*.gif
+!assets/*.png
+!assets/*.jpg
+
+# Ignore temporary backup dumps inside project copies
+**/backups/
+**/backup_*/
+**/temp*/
+**/scratch/
